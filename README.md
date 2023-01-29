@@ -1,24 +1,13 @@
-# CSCI5709 Project Proposal
+# Sportify
+### React JS, Node JS, JavaScript, Express JS, HTML-5, CSS, Mongo DB, GitLab, Visual Studio.
 
 - _Date Created_: 13 June 2022
 - _Last Modification Date_: 16 June 2022
 
-## Authors
+## Description
 
-- [Alagu Swrnam Karruppiah](mailto:al581093@dal.ca)
-- [Aravind Jayanthi](mailto:ar687531@dal.ca)
-- [Navya Jayapal](mailto:nv408879@dal.ca)
-- [Prachi Kabtiyal](mailto:pr522601@dal.ca)
-- [Samarth Jariwala](mailto:sm228153@dal.ca)
-- [Soham Kansodaria](mailto:sh788512@dal.ca)
+A comprehensive sports club management system that enables members to conduct online membership purchases, facility, and event bookings, blogging about their fitness journey, and e-commerce for merchandise sales. Implemented a continuous integration and deployment pipeline using Heroku to ensure seamless application updates.
 
-## Repositories
-
-- _Git URL_: https://git.cs.dal.ca/ajayanthi/5709-group10
-
-## Deployment
-
-- Deployed Application: https://sportify-prd.herokuapp.com/
 
 ## Built With
 
