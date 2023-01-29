@@ -1,6 +1,6 @@
 # Project Backend
 
-In this project, we are trying to build a sports club management system which provides online services for club members and maintainers. The project provides comprehensive user manganement system for signup, login, and profile update with forgot password. In addition to the simple and secure user management system, it also has membership management and a payment system for membership, facility reservation management system, community blogging, and global search for users to fully use the online services provided by a typical sports club. In this project, we are also focused on addressing the management issues faced by club maintainers by providing a separate admin module where they can manage club's facilities, events etc. 
+In this project, we built a sports club management system which provides online services for club members and maintainers. The project provides comprehensive user manganement system for signup, login, and profile update with forgot password. In addition to the simple and secure user management system, it also has membership management and a payment system for membership, facility reservation management system, community blogging, and global search for users to fully use the online services provided by a typical sports club. In this project, we are also focused on addressing the management issues faced by club maintainers by providing a separate admin module where they can manage club's facilities, events etc. 
 
 * *Date Created*: 15 JUL 2022
 * *Last Modification Date*: 15 JUL 2022
